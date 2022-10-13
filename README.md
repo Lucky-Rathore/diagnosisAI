@@ -4,4 +4,6 @@
 React, Django and Keras is the tech stack in use.
 
 <h2><b>Demo URL</b></h2>
-https://lucky-rathore.github.io/diagnosis-ui
+https://lucky-rathore.github.io/diagnosis-ui (deployed with github pages & heroku)
+
+Thanks for bearing with my "not clean code". Feel free for suggestion/queries at luckyrathore03@gmail.com
