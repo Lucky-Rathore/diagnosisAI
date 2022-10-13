@@ -1,0 +1,1 @@
+web: gunicorn apiTry.wsgi --timeout 300
