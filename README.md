@@ -1,4 +1,4 @@
-(<b>Work is in progress.</b>) Objective of the project is to build a platform. Which can take x-ray image of chest and show prediction for Diseases.
+This project is to build a platform. Which can take x-ray image of chest and show prediction for Diseases like cancer & pneumonia.
 
 <h2><b>Tech Stack</b></h2>
 React, Django and Keras is the tech stack in use.
